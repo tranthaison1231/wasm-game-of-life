@@ -1,0 +1,7 @@
+{
+    "name": "wasm-game-of-life",
+    "builds": [
+        { "src": "./*", "use": "@now/static" }
+    ],
+    "version": 2
+}
